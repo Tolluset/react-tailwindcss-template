@@ -1,5 +1,8 @@
-# React project templage
+# React plus tailwindcss project templage
 
+## Blog
+
+https://dev.classmethod.jp/articles/add-tailwindcss-in-react/
 ## How to use
 
 `yarn start` to start dev server, :eyes: see `localhost:8080`
