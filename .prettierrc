@@ -6,5 +6,6 @@
     "trailingComma": "all",
     "bracketSpacing": true,
     "parser": "typescript",
-    "arrowParens": "always"
+    "arrowParens": "always",
+    "tailwindConfig": "./tailwind.config.js"
 }
